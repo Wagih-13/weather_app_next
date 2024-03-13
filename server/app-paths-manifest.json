@@ -1,0 +1,9 @@
+{
+  "/_not-found": "app/_not-found.js",
+  "/(components)/clinetComponent/page": "app/(components)/clinetComponent/page.js",
+  "/(components)/footer/page": "app/(components)/footer/page.js",
+  "/(components)/navBar/page": "app/(components)/navBar/page.js",
+  "/(components)/myHome/page": "app/(components)/myHome/page.js",
+  "/page": "app/page.js",
+  "/(components)/searchCountry/page": "app/(components)/searchCountry/page.js"
+}
